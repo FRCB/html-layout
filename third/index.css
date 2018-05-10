@@ -1,0 +1,37 @@
+header {
+    background: grey;
+    padding: 18px 30px;
+}
+
+.blue-box {
+    display: inline-block;
+    background: deepskyblue;
+    width: 80px;
+    height: 80px;
+}
+
+p {
+    padding: 50px;
+    font-size: 30px;
+    font-family: arial;
+}
+
+.row {
+    height: 100px;
+}
+
+#blue {
+    background: blue;
+}
+
+#lightblue {
+    background: lightblue;
+}
+
+#green {
+    background: lightgreen;
+}
+
+#yellow {
+    background: yellow;
+}
